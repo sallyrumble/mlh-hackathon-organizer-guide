@@ -29,6 +29,15 @@ We recommend selecting judges that have a strong technical aptitude. If you’re
     * Consider who you know and who your school knows
 
     * Have department heads reach out for you
+    
+## MLH Mentor Matcher
+
+As part of our mission to create an empowering environment where hackers of all skill levels can create amazing things, we’re launching the [MLH Mentor Matcher](https://mentors.mlh.io0 (powered by [Twilio](https://twilio.com) to help connect the hackers and mentors at your event!
+
+Did you know that on average 25% of the attendees who participated in the 2018  MLH hackathon season didn’t demo? Many of them got stuck on a bug that they didn’t know how to get past. Having access to a mentor could have helped them finish their project, but finding a mentor can be a challenge. It can be intimidating to approach a professional and ask for help, and sometimes mentors just aren’t around.
+
+To address this issue, we partnered up with our friends at Twilio and built the MLH Mentor Matcher to connect the hackers and mentors at your event. Hackers will have access to a custom phone number that they can text whenever they have a question with a description and their location. Suddenly, a wild mentor will appear, ready to help and ensure that hacker has a great experience. 
+
 
 ## MLH Tips
 
